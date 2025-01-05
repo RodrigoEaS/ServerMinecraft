@@ -1,1 +1,1 @@
-java -Xmx2048M -Xms512M -jar server.jar nogui
+java -Xmx512M -Xms512M -jar server.jar nogui
