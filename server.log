@@ -1,0 +1,192 @@
+2025-01-05 13:04:23 [INFO] Starting minecraft server version Beta 1.7.3
+2025-01-05 13:04:23 [INFO] Loading properties
+2025-01-05 13:04:23 [WARNING] server.properties does not exist
+2025-01-05 13:04:23 [INFO] Generating new properties file
+2025-01-05 13:04:23 [INFO] Starting Minecraft server on *:25565
+2025-01-05 13:04:23 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-1000-g41d06f4-b1092jnks (MC: 1.7.3)
+2025-01-05 13:04:23 [INFO] Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+2025-01-05 13:04:23 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2025-01-05 13:04:23 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2025-01-05 13:04:23 [WARNING] Failed to load ops: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2025-01-05 13:04:23 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2025-01-05 13:04:23 [INFO] Preparing level "world"
+2025-01-05 13:04:23 [INFO] Preparing start region for level 0 (Seed: -2708059276460286931)
+2025-01-05 13:04:24 [INFO] Preparing spawn area: 8%
+2025-01-05 13:04:25 [INFO] Preparing spawn area: 24%
+2025-01-05 13:04:26 [INFO] Preparing spawn area: 44%
+2025-01-05 13:04:27 [INFO] Preparing spawn area: 60%
+2025-01-05 13:04:28 [INFO] Preparing spawn area: 73%
+2025-01-05 13:04:29 [INFO] Preparing spawn area: 85%
+2025-01-05 13:04:30 [INFO] Preparing spawn area: 97%
+2025-01-05 13:04:30 [INFO] Preparing start region for level 1 (Seed: -2708059276460286931)
+2025-01-05 13:04:31 [INFO] Preparing spawn area: 4%
+2025-01-05 13:04:32 [INFO] Preparing spawn area: 4%
+2025-01-05 13:04:34 [INFO] Preparing spawn area: 8%
+2025-01-05 13:04:35 [INFO] Preparing spawn area: 12%
+2025-01-05 13:04:36 [INFO] Preparing spawn area: 16%
+2025-01-05 13:04:37 [INFO] Preparing spawn area: 20%
+2025-01-05 13:04:38 [INFO] Preparing spawn area: 28%
+2025-01-05 13:04:39 [INFO] Preparing spawn area: 32%
+2025-01-05 13:04:40 [INFO] Preparing spawn area: 36%
+2025-01-05 13:04:41 [INFO] Preparing spawn area: 40%
+2025-01-05 13:04:42 [INFO] Preparing spawn area: 48%
+2025-01-05 13:04:43 [INFO] Preparing spawn area: 48%
+2025-01-05 13:04:44 [INFO] Preparing spawn area: 57%
+2025-01-05 13:04:46 [INFO] Preparing spawn area: 61%
+2025-01-05 13:04:47 [INFO] Preparing spawn area: 65%
+2025-01-05 13:04:48 [INFO] Preparing spawn area: 69%
+2025-01-05 13:04:49 [INFO] Preparing spawn area: 73%
+2025-01-05 13:04:50 [INFO] Preparing spawn area: 81%
+2025-01-05 13:04:51 [INFO] Preparing spawn area: 85%
+2025-01-05 13:04:52 [INFO] Preparing spawn area: 89%
+2025-01-05 13:04:53 [INFO] Preparing spawn area: 97%
+2025-01-05 13:04:54 [INFO] Done (3.055s)! For help, type "help" or "?"
+2025-01-05 13:05:11 [INFO] Unknown command. Type "help" for help.
+
+2025-01-05 13:05:34 [INFO] /127.0.0.1:55758 lost connection
+2025-01-05 13:05:40 [INFO] /127.0.0.1:55760 lost connection
+2025-01-05 13:05:51 [INFO] Starting minecraft server version Beta 1.7.3
+2025-01-05 13:05:51 [INFO] Loading properties
+2025-01-05 13:05:51 [INFO] Starting Minecraft server on *:25565
+2025-01-05 13:05:52 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-1000-g41d06f4-b1092jnks (MC: 1.7.3)
+2025-01-05 13:05:52 [INFO] Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+2025-01-05 13:05:52 [INFO] Preparing level "world"
+2025-01-05 13:05:52 [INFO] Preparing start region for level 0 (Seed: -2708059276460286931)
+2025-01-05 13:05:53 [INFO] Preparing spawn area: 97%
+2025-01-05 13:05:53 [INFO] Preparing start region for level 1 (Seed: -2708059276460286931)
+2025-01-05 13:05:54 [INFO] Preparing spawn area: 12%
+2025-01-05 13:05:55 [INFO] Preparing spawn area: 16%
+2025-01-05 13:05:56 [INFO] Preparing spawn area: 20%
+2025-01-05 13:05:57 [INFO] Preparing spawn area: 24%
+2025-01-05 13:05:58 [INFO] Preparing spawn area: 28%
+2025-01-05 13:05:59 [INFO] Preparing spawn area: 36%
+2025-01-05 13:06:00 [INFO] Preparing spawn area: 44%
+2025-01-05 13:06:02 [INFO] Preparing spawn area: 48%
+2025-01-05 13:06:03 [INFO] Preparing spawn area: 53%
+2025-01-05 13:06:04 [INFO] Preparing spawn area: 57%
+2025-01-05 13:06:05 [INFO] Preparing spawn area: 61%
+2025-01-05 13:06:06 [INFO] Preparing spawn area: 61%
+2025-01-05 13:06:07 [INFO] Preparing spawn area: 65%
+2025-01-05 13:06:08 [INFO] Preparing spawn area: 69%
+2025-01-05 13:06:10 [INFO] Preparing spawn area: 73%
+2025-01-05 13:06:11 [INFO] Preparing spawn area: 77%
+2025-01-05 13:06:12 [INFO] Preparing spawn area: 81%
+2025-01-05 13:06:13 [INFO] Preparing spawn area: 85%
+2025-01-05 13:06:14 [INFO] Preparing spawn area: 85%
+2025-01-05 13:06:15 [INFO] Preparing spawn area: 89%
+2025-01-05 13:06:16 [INFO] Preparing spawn area: 93%
+2025-01-05 13:06:18 [INFO] Preparing spawn area: 97%
+2025-01-05 13:06:18 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2025-01-05 13:06:18 [INFO] Done (2.645s)! For help, type "help" or "?"
+2025-01-05 13:07:06 [INFO] /127.0.0.1:55779 lost connection
+2025-01-05 13:08:16 [INFO] Starting minecraft server version Beta 1.7.3
+2025-01-05 13:08:16 [INFO] Loading properties
+2025-01-05 13:08:16 [INFO] Starting Minecraft server on localhost:25565
+2025-01-05 13:08:16 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-01-05 13:08:16 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-01-05 13:08:16 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-01-05 13:08:16 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-01-05 13:08:16 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-1000-g41d06f4-b1092jnks (MC: 1.7.3)
+2025-01-05 13:08:16 [INFO] Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+2025-01-05 13:08:16 [INFO] Preparing level "world"
+2025-01-05 13:08:16 [INFO] Preparing start region for level 0 (Seed: -2708059276460286931)
+2025-01-05 13:08:16 [INFO] Preparing start region for level 1 (Seed: -2708059276460286931)
+2025-01-05 13:08:18 [INFO] Preparing spawn area: 20%
+2025-01-05 13:08:19 [INFO] Preparing spawn area: 28%
+2025-01-05 13:08:20 [INFO] Preparing spawn area: 28%
+2025-01-05 13:08:21 [INFO] Preparing spawn area: 36%
+2025-01-05 13:08:22 [INFO] Preparing spawn area: 40%
+2025-01-05 13:08:23 [INFO] Preparing spawn area: 48%
+2025-01-05 13:08:24 [INFO] Preparing spawn area: 48%
+2025-01-05 13:08:25 [INFO] Preparing spawn area: 57%
+2025-01-05 13:08:26 [INFO] Preparing spawn area: 61%
+2025-01-05 13:08:27 [INFO] Preparing spawn area: 65%
+2025-01-05 13:08:28 [INFO] Preparing spawn area: 69%
+2025-01-05 13:08:29 [INFO] Preparing spawn area: 73%
+2025-01-05 13:08:31 [INFO] Preparing spawn area: 77%
+2025-01-05 13:08:32 [INFO] Preparing spawn area: 81%
+2025-01-05 13:08:34 [INFO] Preparing spawn area: 85%
+2025-01-05 13:08:35 [INFO] Preparing spawn area: 89%
+2025-01-05 13:08:36 [INFO] Preparing spawn area: 89%
+2025-01-05 13:08:37 [INFO] Preparing spawn area: 93%
+2025-01-05 13:08:38 [INFO] Preparing spawn area: 97%
+2025-01-05 13:08:38 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2025-01-05 13:08:38 [INFO] Done (2.187s)! For help, type "help" or "?"
+2025-01-05 13:08:56 [INFO] RodrigoEaS [/127.0.0.1:55807] logged in with entity id 1 at ([world] -58.5, 67.62000000476837, 38.5)
+2025-01-05 13:16:11 [INFO] Starting minecraft server version Beta 1.7.3
+2025-01-05 13:16:11 [INFO] Loading properties
+2025-01-05 13:16:11 [INFO] Starting Minecraft server on localhost:25565
+2025-01-05 13:16:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-01-05 13:16:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-01-05 13:16:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-01-05 13:16:11 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-01-05 13:16:11 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-1000-g41d06f4-b1092jnks (MC: 1.7.3)
+2025-01-05 13:16:11 [INFO] Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+2025-01-05 13:16:11 [INFO] Preparing level "world"
+2025-01-05 13:16:11 [INFO] Preparing start region for level 0 (Seed: -2708059276460286931)
+2025-01-05 13:16:11 [INFO] Preparing start region for level 1 (Seed: -2708059276460286931)
+2025-01-05 13:16:12 [INFO] Preparing spawn area: 56%
+2025-01-05 13:16:13 [INFO] Preparing spawn area: 61%
+2025-01-05 13:16:14 [INFO] Preparing spawn area: 65%
+2025-01-05 13:16:15 [INFO] Preparing spawn area: 69%
+2025-01-05 13:16:17 [INFO] Preparing spawn area: 73%
+2025-01-05 13:16:18 [INFO] Preparing spawn area: 77%
+2025-01-05 13:16:19 [INFO] Preparing spawn area: 85%
+2025-01-05 13:16:20 [INFO] Preparing spawn area: 89%
+2025-01-05 13:16:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2025-01-05 13:16:21 [INFO] Done (1.007s)! For help, type "help" or "?"
+2025-01-05 13:16:24 [INFO] RodrigoEaS [/127.0.0.1:56181] logged in with entity id 120 at ([world] -57.5, 66.62000000476837, 37.5)
+2025-01-05 13:16:59 [INFO] RodrigoEaS lost connection: disconnect.quitting
+2025-01-05 13:16:59 [SEVERE] java.net.SocketException: Socket closed
+
+2025-01-05 13:16:59 [INFO] Connection reset
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl.ensureOpenAndConnected(NioSocketImpl.java:163)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl.beginWrite(NioSocketImpl.java:362)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:407)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:819)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1195)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:125)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/java.io.BufferedOutputStream.implFlush(BufferedOutputStream.java:252)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:240)
+
+2025-01-05 13:16:59 [SEVERE] 	at java.base/java.io.DataOutputStream.flush(DataOutputStream.java:131)
+
+2025-01-05 13:16:59 [SEVERE] 	at net.minecraft.server.NetworkWriterThread.run(SourceFile:116)
+
+2025-01-05 13:17:01 [INFO] RodrigoEaS [/127.0.0.1:56193] logged in with entity id 448 at ([world] -101.4503908663891, 72.0, 2.698909737062284)
+2025-01-05 13:17:05 [INFO] RodrigoEaS lost connection: disconnect.quitting
+2025-01-05 13:17:05 [INFO] Connection reset
+
+2025-01-05 13:17:14 [INFO] Starting minecraft server version Beta 1.7.3
+2025-01-05 13:17:14 [INFO] Loading properties
+2025-01-05 13:17:14 [INFO] Starting Minecraft server on localhost:25565
+2025-01-05 13:17:14 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-01-05 13:17:14 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-01-05 13:17:14 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-01-05 13:17:14 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2025-01-05 13:17:14 [INFO] This server is running Craftbukkit version git-Bukkit-0.0.0-1000-g41d06f4-b1092jnks (MC: 1.7.3)
+2025-01-05 13:17:14 [INFO] Couldn't access Thread.inheritableThreadLocals. Reference finalizer threads will inherit thread local values.
+2025-01-05 13:17:14 [INFO] Preparing level "world"
+2025-01-05 13:17:14 [INFO] Preparing start region for level 0 (Seed: -2708059276460286931)
+2025-01-05 13:17:14 [INFO] Preparing start region for level 1 (Seed: -2708059276460286931)
+2025-01-05 13:17:15 [INFO] Preparing spawn area: 69%
+2025-01-05 13:17:16 [INFO] Preparing spawn area: 73%
+2025-01-05 13:17:17 [INFO] Preparing spawn area: 81%
+2025-01-05 13:17:18 [INFO] Preparing spawn area: 85%
+2025-01-05 13:17:19 [INFO] Preparing spawn area: 93%
+2025-01-05 13:17:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2025-01-05 13:17:20 [INFO] Done (0.581s)! For help, type "help" or "?"
+2025-01-05 13:17:24 [INFO] RodrigoEaS [/127.0.0.1:56205] logged in with entity id 128 at ([world] -101.4503908663891, 72.0, 2.698909737062284)
+2025-01-05 13:17:52 [INFO] RodrigoEaS lost connection: disconnect.quitting
+2025-01-05 13:17:52 [INFO] Connection reset
+
